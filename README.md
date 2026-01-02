@@ -19,9 +19,9 @@ The dashboards were designed to support **government-level decision making** by 
 - DAX Measures
 - Data Cleaning & Transformation
 - Dummy data creation for missing KPIs
+## Dashboard 1 Preview
+![Dashboard 1](E-Utthan-Dashboards/Dashboard-1/dashboard1_home.jpeg)
 
-📸 **Dashboard Preview:**  
-E-Utthan-Dashboards/Dashboard-1/WhatsApp Image 2025-12-30 at 1.37.38 PM (1).jpeg
 
 
 ---
