@@ -21,7 +21,7 @@ The dashboards were designed to support **government-level decision making** by 
 - Dummy data creation for missing KPIs
 
 📸 **Dashboard Preview:**  
-![Dashboard 1](Dashboard-1/dashboard1_home.png)
+![Dashboard 1](E-Utthan-Dashboards/Dashboard-2)
 
 ---
 
