@@ -39,7 +39,7 @@ E-Utthan-Dashboards/Dashboard-1/WhatsApp Image 2025-12-30 at 1.37.38 PM (1).jpeg
 - KPI cards & trend visuals
 
 📸 **Dashboard Preview:**  
-![Dashboard 2](Dashboard-2/dashboard2_home.png)
+![Dashboard 2](Screenshot 2026-01-02 134245.png)
 
 ---
 
