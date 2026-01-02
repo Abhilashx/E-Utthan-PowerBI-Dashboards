@@ -38,8 +38,9 @@ The dashboards were designed to support **government-level decision making** by 
 - Financial Year slicers
 - KPI cards & trend visuals
 
-📸 **Dashboard Preview:**  
-![Dashboard 2](Screenshot 2026-01-02 134245.png)
+## Dashboard 2 Preview
+![Dashboard 2](E-Utthan-Dashboards/Dashboard-1/dashboard1_home2.jpeg)
+
 
 ---
 
