@@ -39,7 +39,8 @@ The dashboards were designed to support **government-level decision making** by 
 - KPI cards & trend visuals
 
 ## Dashboard 2 Preview
-![Dashboard 2](abhi)
+![Dashboard 2](E-Utthan-Dashboards/Dashboard-2/dashboard2_home.png)
+
 
 
 ---
